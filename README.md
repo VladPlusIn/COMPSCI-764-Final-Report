@@ -3,8 +3,8 @@
 This repository contains the code and resources for the project **"Continuous Test-Time Domain Adaptation in Real-Time Bidding."** The project investigates the application of Continuous Test-Time Adaptation (CoTTA) across various Click-Through Rate (CTR) prediction models within Real-Time Bidding (RTB) environments.
 
 ## Datasets
-- **iPinYou Dataset**: Detailed information on the iPinYou dataset can be found [here](https://github.com/wnzhang/make-ipinyou-data). It includes bid records across multiple advertising campaigns, providing a natural testbed for domain shifts.
-- **YOYI Dataset**: The YOYI dataset was introduced in our CIKM paper, offering new domain characteristics for testing. Further details are available [here](http://apex.sjtu.edu.cn/datasets/7).
+- **iPinYou Dataset**: Detailed information on the iPinYou dataset can be found [here](https://github.com/wnzhang/make-ipinyou-data). 
+- **YOYI Dataset**: The YOYI dataset is available [here](http://apex.sjtu.edu.cn/datasets/7).
 
 ## Usage
 
